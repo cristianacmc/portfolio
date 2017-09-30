@@ -17,18 +17,19 @@ body {
   border-top: 4px solid #696969;
 }
 
+
 /* header */
+
 
 .head {
 	margin-top: 1.5em;
-	margin-bottom: 1em;
 }
 
 .title {
-	font-size: 0.7em;
+	font-size: 0.6em;
 	color: black;
-	margin-left: 12em;
 	margin-top: -7em;
+	margin-left: 17em;
 }
 
 .title p {
@@ -36,11 +37,13 @@ body {
 }
 
 .ilogo {
-	width: 30%;
+	width: 27%;
 	margin-top: 1.5em;
 }
 
+
 /* section projects */
+
 
 .ftitle h2 {
 	color: #696969;
@@ -59,13 +62,17 @@ body {
 	margin-bottom: 3.5em;
 }
 
+
 /* aside profile */
+
 
 .profile {
 	margin-right: 1px;
 }
 
+
 /* footer */
+
 
 .rodape {
   width: 100%;
